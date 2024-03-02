@@ -50,5 +50,7 @@ footer{
 footer p{
     text-align: end;
     letter-spacing: 1.1px;
+    font-size: 20px;
+    font-weight: 400;
 
 }
