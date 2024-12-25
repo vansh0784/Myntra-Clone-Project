@@ -55,6 +55,8 @@ header{
     align-items: center;
 }
 .search_bar{
+    border:none;
+    outline: none;
     background-color: #f5f5f6;
     color:#696e79;
     flex-grow:1;
